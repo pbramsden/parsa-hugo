@@ -2,7 +2,7 @@
 categories = []
 date = ""
 description = ""
-image = "/images/ww1984.jpg"
+image = "/images/gal-gadot-in-wonder-woman-1984.jpg"
 tags = []
 title = "FILM Wonder Woman (2020)"
 type = "post"
