@@ -2,7 +2,6 @@
 categories = ["film", ""]
 date = ""
 description = "Genre: Comedy/Drama Age rating: PG Length: 1h 59m My rating: 4 stars"
-draft = true
 image = ""
 tags = ["film"]
 title = "FILM The Personal History of David Copperfield (2019)"
