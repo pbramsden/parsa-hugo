@@ -4,7 +4,7 @@ date = 2021-03-13T00:00:00Z
 description = "Film review of Borat Subsequent Moviefilm"
 image = "/images/borat.jpg"
 tags = ["comedy", "film", "borat"]
-title = "Borat Subsequent Movilefilm"
+title = "FILM Borat Subsequent Moviefilm (2020)"
 type = "post"
 
 +++
