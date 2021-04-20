@@ -2,7 +2,7 @@
 categories = []
 date = ""
 description = ""
-image = ""
+image = "/images/ww1984.jpg"
 tags = []
 title = "FILM Wonder Woman (2020)"
 type = "post"
